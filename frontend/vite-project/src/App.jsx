@@ -29,6 +29,7 @@ function App() {
         "http://localhost:5000/api/convert",
         formData
       );
+
       setResult(response?.data);
       setError("");
     } catch (error) {
@@ -96,7 +97,7 @@ function App() {
         {error && <p className="error">Error: {error}</p>}
       </section>
       <section className="additional-info">
-        <h2>Why Choose Global Currency Converter?</h2>
+        <h1>Why Choose Global Currency Converter?</h1>
         <p>Detailed explanations on advantages or instructions for use.</p>
       </section>
     </div>
