@@ -1,0 +1,169 @@
+{
+    "company_details":[
+        {
+            "company_name": "Trade PVT",
+            "account_status_key": 4,
+            "handling_company_code": 3,
+            "grade_code": 5,
+            "business_type_code": 14,
+            "group_code": 8,
+            "trade_code": 51,
+            "office_country_code": 23,
+            "communication_code": 11,
+            "event_code": 31,
+            "category_code": 3,
+            "documents_status": {
+                "status_code": 4
+            },
+            "source_type_code": 32,
+            "bank_code": 1590,
+            "contact_person" : {
+                "role_code": 11,
+                "web_login": {
+                    "status_code": 4
+                },
+                "designation_code": 9,
+                "permission": {
+                    "role_code": 2
+                },
+                "contact_person_documents":{
+                    "submited_documents":[29,30,36],
+                    "doc_status": 4
+                }
+                    
+            }
+        },
+        {
+            "company_name": "Marco Down",
+            "account_status_key": 2,
+            "handling_company_code": 1,
+            "grade_code": 4,
+            "business_type_code": 13,
+            "group_code": 6,
+            "trade_code": 34,
+            "office_country_code": 22,
+            "communication_code": 7,
+            "event_code": 20,
+            "category_code": 2,
+            "documents_status": {
+                "status_code": 2
+            },
+            "source_type_code": 24,
+            "bank_code": 1591,
+            "contact_person" : {
+                "role_code": 10,
+                "web_login": {
+                    "status_code": 1
+                },
+                "designation_code": 7,
+                "permission": {
+                    "role_code": 1
+                },
+                "contact_person_documents":{
+                    "submited_documents":[1,30],
+                    "doc_status": 1
+                }
+                    
+            }
+        },
+        {
+            "company_name": "France D'code",
+            "account_status_key": 3,
+            "handling_company_code": 2,
+            "grade_code": 3,
+            "business_type_code": 12,
+            "group_code": 4,
+            "trade_code": 33,
+            "office_country_code":20 ,
+            "communication_code": 5,
+            "event_code": 18,
+            "category_code": 1,
+            "documents_status": {
+                "status_code": 2
+            },
+            "source_type_code": 22,
+            "bank_code": 2,
+            "contact_person" : {
+                "role_code": 8,
+                "web_login": {
+                    "status_code": 6
+                },
+                "designation_code": 6,
+                "permission": {
+                    "role_code": 2
+                },
+                "contact_person_documents":{
+                    "submited_documents":[30,36,1],
+                    "doc_status": 2
+                }
+                    
+            }
+        },
+        {
+            "company_name": "Untitle Mark",
+            "account_status_key": 2,
+            "handling_company_code": 1,
+            "grade_code": 2,
+            "business_type_code": 10,
+            "group_code": 4,
+            "trade_code": 31,
+            "office_country_code": 18,
+            "communication_code": 4,
+            "event_code": 16,
+            "category_code": 2,
+            "documents_status": {
+                "status_code": 1
+            },
+            "source_type_code": 20,
+            "bank_code": 2019,
+            "contact_person" : {
+                "role_code": 5,
+                "web_login": {
+                    "status_code": 1
+                },
+                "designation_code": 3,
+                "permission": {
+                    "role_code": 1
+                },
+                "contact_person_documents":{
+                    "submited_documents":[1,3,36],
+                    "doc_status": 2
+                }
+                    
+            }
+        },
+        {
+            "company_name": "D'Rose Mark",
+            "account_status_key": 1,
+            "handling_company_code": 2,
+            "grade_code": 1,
+            "business_type_code": 8,
+            "group_code": 2,
+            "trade_code": 30,
+            "office_country_code": 16,
+            "communication_code": 2,
+            "event_code": 12,
+            "category_code": 1,
+            "documents_status": {
+                "status_code": 2
+            },
+            "source_type_code": 18,
+            "bank_code": 2037,
+            "contact_person" : {
+                "role_code": 2,
+                "web_login": {
+                    "status_code": 4
+                },
+                "designation_code": 2,
+                "permission": {
+                    "role_code": 2
+                },
+                "contact_person_documents":{
+                    "submited_documents":[30],
+                    "doc_status": 3
+                }
+                    
+            }
+        }
+    ]
+}
